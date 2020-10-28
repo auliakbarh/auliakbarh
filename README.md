@@ -3,6 +3,7 @@
 I work as a React Native Developer since 2019. I'm based in Medan or Jakarta, :indonesia:. 
 
 🔭 I’m currently working on [PT Barito Integra Teknologi](https://barito.tech/).
+
 For now I still don't have a repository to be proud of, but I'm working on it.
 
 [![Twitter: auliakbarh](https://img.shields.io/twitter/follow/auliakbarh?style=social)](https://twitter.com/auliakbarh)
