@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi,  I'm Akbar. 😄
+
+I work as a React Native Developer since 2019. I'm based in Medan or Jakarta, :indonesia:. 
+
+🔭 I’m currently working on [PT Barito Integra Teknologi](https://barito.tech/).
+For now I still don't have a repository to be proud of, but I'm working on it.
+
+[![Twitter: auliakbarh](https://img.shields.io/twitter/follow/auliakbarh?style=social)](https://twitter.com/auliakbarh)
+
 
 <!--
 **auliakbarh/auliakbarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
