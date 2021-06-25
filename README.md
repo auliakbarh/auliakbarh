@@ -11,7 +11,7 @@ I work as a React Native Developer since 2019. I'm based in Medan or Jakarta, :i
 [![Telegram](https://img.shields.io/badge/-auliakbarh-informational?style=flat-square&labelColor=gray&logo=telegram&logoColor=white&link=https://t.me/auliakbarh)](https://t.me/auliakbarh)
 [![Twitter: auliakbarh](https://img.shields.io/twitter/follow/auliakbarh?style=social)](https://twitter.com/auliakbarh)
 
-
+Section below created with [Wakatime](https://wakatime.com/):
 <!--START_SECTION:waka-->
 ```text
 Week: 18 June, 2021 - 24 June, 2021
