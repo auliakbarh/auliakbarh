@@ -4,7 +4,7 @@ I work as a React Native Developer since 2019. I'm based in Medan or Jakarta, :i
 
 🔭 Take a look at my [LinkedIn](https://www.linkedin.com/in/aulia-akbar-harahap/) profile.
 
-For now I still don't have a repository to be proud of, but I'm working on it.
+<!-- For now I still don't have a repository to be proud of, but I'm working on it. -->
 
 [![Twitter: auliakbarh](https://img.shields.io/twitter/follow/auliakbarh?style=social)](https://twitter.com/auliakbarh)
 
