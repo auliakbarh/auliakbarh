@@ -12,6 +12,10 @@ I work as a React Native Developer since 2019. I'm based in Medan or Jakarta, :i
 [![Twitter: auliakbarh](https://img.shields.io/twitter/follow/auliakbarh?style=social)](https://twitter.com/auliakbarh)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!--
 **auliakbarh/auliakbarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
