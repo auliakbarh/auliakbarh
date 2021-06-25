@@ -13,6 +13,11 @@ I work as a React Native Developer since 2019. I'm based in Medan or Jakarta, :i
 
 
 <!--START_SECTION:waka-->
+```text
+Week: 18 June, 2021 - 24 June, 2021
+
+
+```
 <!--END_SECTION:waka-->
 
 
