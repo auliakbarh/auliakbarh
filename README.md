@@ -13,6 +13,8 @@ I work as a React Native Developer since 2019. I'm based in Medan or Jakarta, :i
 
 Section below created with [Wakatime](https://wakatime.com/):
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -57,7 +59,7 @@ Objective-C              2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2022 01:02:34 UTC
+ Last Updated on 08/05/2022 01:03:31 UTC
 <!--END_SECTION:waka-->
 
 
