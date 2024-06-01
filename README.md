@@ -13,7 +13,7 @@ I work as a React Native Developer since 2019. I'm based in Medan or Jakarta, :i
 
 Section below created with [Wakatime](https://wakatime.com/):
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%206%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -64,7 +64,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2024 01:23:08 UTC
+ Last Updated on 01/06/2024 01:26:59 UTC
 <!--END_SECTION:waka-->
 
 
