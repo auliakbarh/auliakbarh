@@ -13,47 +13,6 @@ I work as a React Native Developer since 2019. I'm based in Medan or Jakarta, :i
 
 Section below created with [Wakatime](https://wakatime.com/):
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%2036%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-154%20hrs%2050%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-🌆 Daytime                5960 commits        ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-🌃 Evening                9332 commits        ███████████░░░░░░░░░░░░░░   44.78 % 
-🌙 Night                  3212 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   3868 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Tuesday                  4629 commits        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
-Wednesday                4141 commits        █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Thursday                 2749 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Friday                   1804 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-Saturday                 1459 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Sunday                   2189 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -67,7 +26,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 03:00:06 UTC
+ Last Updated on 07/08/2026 02:58:42 UTC
 <!--END_SECTION:waka-->
 
 
